@@ -1,0 +1,17 @@
+### Java ###
+target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+**/*.class
+**/*.jar
+**/*.war
+
+### Maven ##
+!.mvn/wrapper/maven-wrapper.jar
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+**/*.iml
+*.ipr
+
